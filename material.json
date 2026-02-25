@@ -1,0 +1,90 @@
+[
+    {
+        "key": "ActionReport",
+        "name": "戦闘詳報",
+        "is_deleted": false,
+        "created_at": "2025-12-19 17:06:02.044487+00",
+        "updated_at": "2025-12-19 17:06:02.044487+00",
+        "deleted_at": null
+    },
+    {
+        "key": "emergency-repair-material",
+        "name": "緊急修理資材",
+        "is_deleted": false,
+        "created_at": "2025-12-21 05:31:47.230177+00",
+        "updated_at": "2025-12-21 05:31:47.230177+00",
+        "deleted_at": null
+    },
+    {
+        "key": "kaigai-skill",
+        "name": "海外艦最新技術",
+        "is_deleted": false,
+        "created_at": "2025-12-20 09:14:11.251864+00",
+        "updated_at": "2025-12-20 09:14:11.251864+00",
+        "deleted_at": null
+    },
+    {
+        "key": "MedalL",
+        "name": "勲章",
+        "is_deleted": false,
+        "created_at": "2025-12-20 09:23:41.614305+00",
+        "updated_at": "2025-12-20 09:23:41.614305+00",
+        "deleted_at": null
+    },
+    {
+        "key": "NeEngine",
+        "name": "ネ式エンジン",
+        "is_deleted": false,
+        "created_at": "2025-12-20 09:27:25.825557+00",
+        "updated_at": "2025-12-20 09:27:25.825557+00",
+        "deleted_at": null
+    },
+    {
+        "key": "new_gun_material",
+        "name": "新型砲熕兵装資材",
+        "is_deleted": false,
+        "created_at": "2025-12-19 17:06:49.432937+00",
+        "updated_at": "2025-12-19 17:06:49.432937+00",
+        "deleted_at": null
+    },
+    {
+        "key": "new_model_material",
+        "name": "新型兵装資材",
+        "is_deleted": false,
+        "created_at": "2025-12-19 17:06:52.891009+00",
+        "updated_at": "2025-12-19 17:06:52.891009+00",
+        "deleted_at": null
+    },
+    {
+        "key": "new_plane_material",
+        "name": "新型航空兵装資材",
+        "is_deleted": false,
+        "created_at": "2025-12-20 08:38:45.799826+00",
+        "updated_at": "2025-12-20 08:38:45.799826+00",
+        "deleted_at": null
+    },
+    {
+        "key": "new-funsiki-material",
+        "name": "新型噴進装備開発資材",
+        "is_deleted": false,
+        "created_at": "2025-12-20 09:48:09.572883+00",
+        "updated_at": "2025-12-20 09:48:09.572883+00",
+        "deleted_at": null
+    },
+    {
+        "key": "sensui-hokyu",
+        "name": "潜水艦補給物資",
+        "is_deleted": false,
+        "created_at": "2026-02-07 14:18:49.446289+00",
+        "updated_at": "2026-02-07 14:18:49.446289+00",
+        "deleted_at": null
+    },
+    {
+        "key": "skilled_crew",
+        "name": "熟練搭乗員",
+        "is_deleted": false,
+        "created_at": "2025-12-20 08:38:46.377125+00",
+        "updated_at": "2025-12-20 08:38:46.377125+00",
+        "deleted_at": null
+    }
+]

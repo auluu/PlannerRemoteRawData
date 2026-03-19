@@ -4932,6 +4932,24 @@
     "consume_improvement_max": 6
   },
   {
+    "id": "399_0",
+    "equipment_id": 399,
+    "step_id": 0,
+    "consume_development_min": 3,
+    "consume_development_max": 4,
+    "consume_improvement_min": 2,
+    "consume_improvement_max": 3
+  },
+  {
+    "id": "399_1",
+    "equipment_id": 399,
+    "step_id": 1,
+    "consume_development_min": 4,
+    "consume_development_max": 6,
+    "consume_improvement_min": 3,
+    "consume_improvement_max": 4
+  },
+  {
     "id": "400_0",
     "equipment_id": 400,
     "step_id": 0,
@@ -6154,6 +6172,24 @@
     "consume_development_max": 8,
     "consume_improvement_min": 3,
     "consume_improvement_max": 4
+  },
+  {
+    "id": "537_0",
+    "equipment_id": 537,
+    "step_id": 0,
+    "consume_development_min": 5,
+    "consume_development_max": 6,
+    "consume_improvement_min": 3,
+    "consume_improvement_max": 3
+  },
+  {
+    "id": "537_1",
+    "equipment_id": 537,
+    "step_id": 1,
+    "consume_development_min": 5,
+    "consume_development_max": 6,
+    "consume_improvement_min": 3,
+    "consume_improvement_max": 3
   },
   {
     "id": "539_0",

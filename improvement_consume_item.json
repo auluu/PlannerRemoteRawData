@@ -1746,9 +1746,9 @@
     "star_to": null
   },
   {
-    "id": "220_0|equipment|3|-|-",
+    "id": "220_0|equipment|66|-|-",
     "step_id": "220_0",
-    "item_equipment_id": 3,
+    "item_equipment_id": 66,
     "item_material_key": null,
     "count": 2,
     "star_from": null,
@@ -3411,6 +3411,15 @@
     "star_to": null
   },
   {
+    "id": "341_1|material|kaigai-skill|9|9",
+    "step_id": "341_1",
+    "item_equipment_id": null,
+    "item_material_key": "kaigai-skill",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
+  },
+  {
     "id": "344_0|equipment|16|-|-",
     "step_id": "344_0",
     "item_equipment_id": 16,
@@ -3868,6 +3877,33 @@
     "count": 2,
     "star_from": null,
     "star_to": null
+  },
+  {
+    "id": "399_0|equipment|65|-|-",
+    "step_id": "399_0",
+    "item_equipment_id": 65,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "399_1|equipment|5|-|-",
+    "step_id": "399_1",
+    "item_equipment_id": 5,
+    "item_material_key": null,
+    "count": 2,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "399_1|material|kaigai-skill|9|9",
+    "step_id": "399_1",
+    "item_equipment_id": null,
+    "item_material_key": "kaigai-skill",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
   },
   {
     "id": "4_1|equipment|4|-|-",
@@ -5362,6 +5398,42 @@
     "count": 2,
     "star_from": null,
     "star_to": null
+  },
+  {
+    "id": "537_0|equipment|65|-|-",
+    "step_id": "537_0",
+    "item_equipment_id": 65,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "537_1|equipment|536|-|-",
+    "step_id": "537_1",
+    "item_equipment_id": 536,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "537_1|material|kaigai-skill|8|8",
+    "step_id": "537_1",
+    "item_equipment_id": null,
+    "item_material_key": "kaigai-skill",
+    "count": 1,
+    "star_from": 8,
+    "star_to": 8
+  },
+  {
+    "id": "537_1|material|kaigai-skill|9|9",
+    "step_id": "537_1",
+    "item_equipment_id": null,
+    "item_material_key": "kaigai-skill",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
   },
   {
     "id": "539_0|equipment|414|-|-",

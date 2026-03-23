@@ -4248,6 +4248,15 @@
     "star_to": null
   },
   {
+    "id": "423_1|material|skilled_crew|9|9",
+    "step_id": "423_1",
+    "item_equipment_id": null,
+    "item_material_key": "skilled_crew",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
+  },
+  {
     "id": "424_0|equipment|242|-|-",
     "step_id": "424_0",
     "item_equipment_id": 242,
@@ -5290,6 +5299,33 @@
     "count": 1,
     "star_from": null,
     "star_to": null
+  },
+  {
+    "id": "53_1|material|skilled_crew|7|7",
+    "step_id": "53_1",
+    "item_equipment_id": null,
+    "item_material_key": "skilled_crew",
+    "count": 1,
+    "star_from": 7,
+    "star_to": 7
+  },
+  {
+    "id": "53_1|material|skilled_crew|8|8",
+    "step_id": "53_1",
+    "item_equipment_id": null,
+    "item_material_key": "skilled_crew",
+    "count": 1,
+    "star_from": 8,
+    "star_to": 8
+  },
+  {
+    "id": "53_1|material|new_plane_material|9|9",
+    "step_id": "53_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_plane_material",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
   },
   {
     "id": "530_0|equipment|328|-|-",

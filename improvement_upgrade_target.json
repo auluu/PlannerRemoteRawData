@@ -1500,6 +1500,16 @@
     "consume_improvement_max": 8
   },
   {
+    "id": "297|294|kind1",
+    "equipment_id": 297,
+    "upgrade_id": 294,
+    "route_kind": "kind1",
+    "consume_development_min": 5,
+    "consume_development_max": 6,
+    "consume_improvement_min": 3,
+    "consume_improvement_max": 5
+  },
+  {
     "id": "297|294|kind2",
     "equipment_id": 297,
     "upgrade_id": 294,

@@ -4656,6 +4656,22 @@
     "note": null
   },
   {
+    "id": "110|156|-|大鳳改|all|0011000",
+    "equipment_id": 110,
+    "secretary_id": 156,
+    "secretary_variant": null,
+    "secretary_label": "大鳳改",
+    "route_kind": null,
+    "sunday": false,
+    "monday": false,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": false,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
     "id": "114|171|-|Bismarck|all|1110000",
     "equipment_id": 114,
     "secretary_id": 171,
@@ -12608,6 +12624,38 @@
     "note": null
   },
   {
+    "id": "492|483|-|龍鳳改二戊|all|0011000",
+    "equipment_id": 492,
+    "secretary_id": 483,
+    "secretary_variant": null,
+    "secretary_label": "龍鳳改二戊",
+    "route_kind": null,
+    "sunday": false,
+    "monday": false,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": false,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "492|608|-|しまね丸改|all|0011000",
+    "equipment_id": 492,
+    "secretary_id": 608,
+    "secretary_variant": null,
+    "secretary_label": "しまね丸改",
+    "route_kind": null,
+    "sunday": false,
+    "monday": false,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": false,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
     "id": "493|341|-|null|all|1000111",
     "equipment_id": 493,
     "secretary_id": 341,
@@ -13008,11 +13056,11 @@
     "note": null
   },
   {
-    "id": "531|183|b|null|all|1000111",
+    "id": "531|183|b|大淀改|all|1000111",
     "equipment_id": 531,
     "secretary_id": 183,
     "secretary_variant": "b",
-    "secretary_label": null,
+    "secretary_label": "大淀改",
     "route_kind": null,
     "sunday": true,
     "monday": false,

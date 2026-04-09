@@ -1715,9 +1715,9 @@
     "upgrade_id": 357,
     "route_kind": null,
     "consume_development_min": 12,
-    "consume_development_max": 30,
-    "consume_improvement_min": 7,
-    "consume_improvement_max": 12
+    "consume_development_max": 22,
+    "consume_improvement_min": 6,
+    "consume_improvement_max": 9
   },
   {
     "id": "367|370|kind2",

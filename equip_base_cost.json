@@ -637,6 +637,13 @@
     "consume_bauxite": 280
   },
   {
+    "id": 110,
+    "consume_fuel": 180,
+    "consume_ammo": 200,
+    "consume_steel": 0,
+    "consume_bauxite": 440
+  },
+  {
     "id": 114,
     "consume_fuel": 30,
     "consume_ammo": 390,
@@ -2238,6 +2245,13 @@
     "consume_ammo": 240,
     "consume_steel": 20,
     "consume_bauxite": 310
+  },
+  {
+    "id": 492,
+    "consume_fuel": 120,
+    "consume_ammo": 120,
+    "consume_steel": 0,
+    "consume_bauxite": 280
   },
   {
     "id": 493,

@@ -167,8 +167,8 @@
     "step_id": 0,
     "consume_development_min": 2,
     "consume_development_max": 3,
-    "consume_improvement_min": 2,
-    "consume_improvement_max": 3
+    "consume_improvement_min": 1,
+    "consume_improvement_max": 2
   },
   {
     "id": "10_1",
@@ -194,8 +194,8 @@
     "step_id": 1,
     "consume_development_min": 2,
     "consume_development_max": 3,
-    "consume_improvement_min": 2,
-    "consume_improvement_max": 3
+    "consume_improvement_min": 1,
+    "consume_improvement_max": 2
   },
   {
     "id": "12_0",
@@ -1049,17 +1049,17 @@
     "step_id": 0,
     "consume_development_min": 4,
     "consume_development_max": 5,
-    "consume_improvement_min": 3,
+    "consume_improvement_min": 2,
     "consume_improvement_max": 3
   },
   {
     "id": "66_1",
     "equipment_id": 66,
     "step_id": 1,
-    "consume_development_min": 6,
-    "consume_development_max": 8,
-    "consume_improvement_min": 4,
-    "consume_improvement_max": 5
+    "consume_development_min": 5,
+    "consume_development_max": 7,
+    "consume_improvement_min": 2,
+    "consume_improvement_max": 4
   },
   {
     "id": "68_0",
@@ -2065,9 +2065,9 @@
     "equipment_id": 139,
     "step_id": 1,
     "consume_development_min": 4,
-    "consume_development_max": 6,
+    "consume_development_max": 5,
     "consume_improvement_min": 3,
-    "consume_improvement_max": 6
+    "consume_improvement_max": 5
   },
   {
     "id": "140_0",
@@ -3119,17 +3119,17 @@
     "step_id": 0,
     "consume_development_min": 6,
     "consume_development_max": 8,
-    "consume_improvement_min": 4,
-    "consume_improvement_max": 5
+    "consume_improvement_min": 3,
+    "consume_improvement_max": 4
   },
   {
     "id": "220_1",
     "equipment_id": 220,
     "step_id": 1,
     "consume_development_min": 8,
-    "consume_development_max": 15,
-    "consume_improvement_min": 6,
-    "consume_improvement_max": 8
+    "consume_development_max": 12,
+    "consume_improvement_min": 5,
+    "consume_improvement_max": 6
   },
   {
     "id": "221_0",
@@ -3255,7 +3255,7 @@
     "consume_development_min": 3,
     "consume_development_max": 5,
     "consume_improvement_min": 3,
-    "consume_improvement_max": 4
+    "consume_improvement_max": 3
   },
   {
     "id": "231_0",

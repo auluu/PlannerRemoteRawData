@@ -6003,9 +6003,9 @@
     "star_to": null
   },
   {
-    "id": "66_0|equipment|3|-|-",
+    "id": "66_0|equipment|66|-|-",
     "step_id": "66_0",
-    "item_equipment_id": 3,
+    "item_equipment_id": 66,
     "item_material_key": null,
     "count": 1,
     "star_from": null,
@@ -6016,7 +6016,7 @@
     "step_id": "66_1",
     "item_equipment_id": 3,
     "item_material_key": null,
-    "count": 2,
+    "count": 1,
     "star_from": null,
     "star_to": null
   },

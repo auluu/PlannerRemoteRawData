@@ -343,25 +343,14 @@
     "step_count": 3
   },
   {
-    "id": "10|66|10>66",
+    "id": "10|91|10>91",
     "from_equipment_id": 10,
-    "to_equipment_id": 66,
+    "to_equipment_id": 91,
     "equipment_path": [
       10,
-      66
+      91
     ],
     "step_count": 1
-  },
-  {
-    "id": "10|220|10>66>220",
-    "from_equipment_id": 10,
-    "to_equipment_id": 220,
-    "equipment_path": [
-      10,
-      66,
-      220
-    ],
-    "step_count": 2
   },
   {
     "id": "11|65|11>65",

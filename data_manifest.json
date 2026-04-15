@@ -1,32 +1,17 @@
 {
-  "data_version": "2026.04.12",
-  "run_date": "2026-04-12",
-  "updated_at": "2026-04-12T00:00:00+08:00",
-  "previous_snapshot": "2026-04-09",
+  "data_version": "2026.04.15",
+  "run_date": "2026-04-15",
+  "updated_at": "2026-04-15T00:00:00+08:00",
+  "previous_snapshot": "2026-04-12",
   "source": {
     "repo": "yukikuri/akashi-list",
     "ref": "gh-pages",
     "detail_path": "detail/"
   },
   "target_equipment_ids": [
-    2,
-    3,
-    10,
-    11,
     21,
-    22,
-    27,
-    30,
-    45,
-    49,
-    65,
-    66,
-    88,
-    91,
-    139,
-    220,
-    229,
-    407
+    48,
+    492
   ],
   "files": [
     "equip_base_cost.json",

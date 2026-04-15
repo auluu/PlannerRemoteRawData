@@ -12704,14 +12704,14 @@
     "note": null
   },
   {
-    "id": "492|608|-|しまね丸改|all|0011000",
+    "id": "492|608|-|しまね丸改|all|0111000",
     "equipment_id": 492,
     "secretary_id": 608,
     "secretary_variant": null,
     "secretary_label": "しまね丸改",
     "route_kind": null,
     "sunday": false,
-    "monday": false,
+    "monday": true,
     "tuesday": true,
     "wednesday": true,
     "thursday": false,

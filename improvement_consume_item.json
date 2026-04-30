@@ -2763,6 +2763,24 @@
     "star_to": null
   },
   {
+    "id": "288_0|equipment|45|-|-",
+    "step_id": "288_0",
+    "item_equipment_id": 45,
+    "item_material_key": null,
+    "count": 3,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "288_1|equipment|287|-|-",
+    "step_id": "288_1",
+    "item_equipment_id": 287,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
     "id": "289_0|equipment|7|-|-",
     "step_id": "289_0",
     "item_equipment_id": 7,
@@ -3902,6 +3920,69 @@
     "item_equipment_id": 17,
     "item_material_key": null,
     "count": 2,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "397_0|equipment|10|-|-",
+    "step_id": "397_0",
+    "item_equipment_id": 10,
+    "item_material_key": null,
+    "count": 2,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "397_1|equipment|91|-|-",
+    "step_id": "397_1",
+    "item_equipment_id": 91,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "397_1|material|new_gun_material|7|7",
+    "step_id": "397_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_gun_material",
+    "count": 1,
+    "star_from": 7,
+    "star_to": 7
+  },
+  {
+    "id": "397_1|material|fast-build|8|8",
+    "step_id": "397_1",
+    "item_equipment_id": null,
+    "item_material_key": "fast-build",
+    "count": 3,
+    "star_from": 8,
+    "star_to": 8
+  },
+  {
+    "id": "397_1|material|new_model_material|9|9",
+    "step_id": "397_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_model_material",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
+  },
+  {
+    "id": "398_0|equipment|3|-|-",
+    "step_id": "398_0",
+    "item_equipment_id": 3,
+    "item_material_key": null,
+    "count": 2,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "398_1|equipment|553|-|-",
+    "step_id": "398_1",
+    "item_equipment_id": 553,
+    "item_material_key": null,
+    "count": 1,
     "star_from": null,
     "star_to": null
   },
@@ -5871,6 +5952,105 @@
     "id": "570_1|equipment|466|-|-",
     "step_id": "570_1",
     "item_equipment_id": 466,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "572_0|equipment|294|-|-",
+    "step_id": "572_0",
+    "item_equipment_id": 294,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "572_1|equipment|379|-|-",
+    "step_id": "572_1",
+    "item_equipment_id": 379,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "572_1|material|new_gun_material|7|7",
+    "step_id": "572_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_gun_material",
+    "count": 1,
+    "star_from": 7,
+    "star_to": 7
+  },
+  {
+    "id": "572_1|material|new_model_material|8|8",
+    "step_id": "572_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_model_material",
+    "count": 1,
+    "star_from": 8,
+    "star_to": 8
+  },
+  {
+    "id": "572_1|material|new_gun_material|9|9",
+    "step_id": "572_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_gun_material",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
+  },
+  {
+    "id": "573_0|equipment|88|-|-",
+    "step_id": "573_0",
+    "item_equipment_id": 88,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "573_1|equipment|106|-|-",
+    "step_id": "573_1",
+    "item_equipment_id": 106,
+    "item_material_key": null,
+    "count": 2,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "573_1|material|new_model_material|8|8",
+    "step_id": "573_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_model_material",
+    "count": 1,
+    "star_from": 8,
+    "star_to": 8
+  },
+  {
+    "id": "573_1|material|kousyo-sigen|9|9",
+    "step_id": "573_1",
+    "item_equipment_id": null,
+    "item_material_key": "kousyo-sigen",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
+  },
+  {
+    "id": "574_0|equipment|315|-|-",
+    "step_id": "574_0",
+    "item_equipment_id": 315,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "574_1|equipment|89|-|-",
+    "step_id": "574_1",
+    "item_equipment_id": 89,
     "item_material_key": null,
     "count": 1,
     "star_from": null,

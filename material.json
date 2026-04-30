@@ -8,8 +8,16 @@
     "name": "緊急修理資材"
   },
   {
+    "key": "fast-build",
+    "name": "高速建造材"
+  },
+  {
     "key": "kaigai-skill",
     "name": "海外艦最新技術"
+  },
+  {
+    "key": "kousyo-sigen",
+    "name": "工廠資源"
   },
   {
     "key": "MedalL",

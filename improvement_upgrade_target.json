@@ -730,6 +730,16 @@
     "consume_improvement_max": 11
   },
   {
+    "id": "91|380|all",
+    "equipment_id": 91,
+    "upgrade_id": 380,
+    "route_kind": null,
+    "consume_development_min": 12,
+    "consume_development_max": 20,
+    "consume_improvement_min": 7,
+    "consume_improvement_max": 9
+  },
+  {
     "id": "92|191|all",
     "equipment_id": 92,
     "upgrade_id": 191,
@@ -1260,6 +1270,16 @@
     "consume_improvement_max": 6
   },
   {
+    "id": "229|379|all",
+    "equipment_id": 229,
+    "upgrade_id": 379,
+    "route_kind": null,
+    "consume_development_min": 10,
+    "consume_development_max": 17,
+    "consume_improvement_min": 4,
+    "consume_improvement_max": 7
+  },
+  {
     "id": "231|232|all",
     "equipment_id": 231,
     "upgrade_id": 232,
@@ -1730,6 +1750,16 @@
     "consume_improvement_max": 12
   },
   {
+    "id": "379|572|all",
+    "equipment_id": 379,
+    "upgrade_id": 572,
+    "route_kind": null,
+    "consume_development_min": 12,
+    "consume_development_max": 24,
+    "consume_improvement_min": 7,
+    "consume_improvement_max": 14
+  },
+  {
     "id": "381|385|all",
     "equipment_id": 381,
     "upgrade_id": 385,
@@ -2037,6 +2067,16 @@
     "consume_development_min": 14,
     "consume_development_max": 20,
     "consume_improvement_min": 14,
+    "consume_improvement_max": 18
+  },
+  {
+    "id": "573|574|all",
+    "equipment_id": 573,
+    "upgrade_id": 574,
+    "route_kind": null,
+    "consume_development_min": 23,
+    "consume_development_max": 38,
+    "consume_improvement_min": 13,
     "consume_improvement_max": 18
   }
 ]

@@ -353,6 +353,17 @@
     "step_count": 1
   },
   {
+    "id": "10|380|10>91>380",
+    "from_equipment_id": 10,
+    "to_equipment_id": 380,
+    "equipment_path": [
+      10,
+      91,
+      380
+    ],
+    "step_count": 2
+  },
+  {
     "id": "11|65|11>65",
     "from_equipment_id": 11,
     "to_equipment_id": 65,
@@ -1553,6 +1564,16 @@
     "step_count": 2
   },
   {
+    "id": "91|380|91>380",
+    "from_equipment_id": 91,
+    "to_equipment_id": 380,
+    "equipment_path": [
+      91,
+      380
+    ],
+    "step_count": 1
+  },
+  {
     "id": "92|191|92>191",
     "from_equipment_id": 92,
     "to_equipment_id": 191,
@@ -2421,6 +2442,27 @@
     "step_count": 1
   },
   {
+    "id": "229|379|229>379",
+    "from_equipment_id": 229,
+    "to_equipment_id": 379,
+    "equipment_path": [
+      229,
+      379
+    ],
+    "step_count": 1
+  },
+  {
+    "id": "229|572|229>379>572",
+    "from_equipment_id": 229,
+    "to_equipment_id": 572,
+    "equipment_path": [
+      229,
+      379,
+      572
+    ],
+    "step_count": 2
+  },
+  {
     "id": "231|232|231>232",
     "from_equipment_id": 231,
     "to_equipment_id": 232,
@@ -3070,6 +3112,16 @@
     "step_count": 1
   },
   {
+    "id": "379|572|379>572",
+    "from_equipment_id": 379,
+    "to_equipment_id": 572,
+    "equipment_path": [
+      379,
+      572
+    ],
+    "step_count": 1
+  },
+  {
     "id": "381|385|381>385",
     "from_equipment_id": 381,
     "to_equipment_id": 385,
@@ -3432,6 +3484,16 @@
     "equipment_path": [
       553,
       533
+    ],
+    "step_count": 1
+  },
+  {
+    "id": "573|574|573>574",
+    "from_equipment_id": 573,
+    "to_equipment_id": 574,
+    "equipment_path": [
+      573,
+      574
     ],
     "step_count": 1
   }

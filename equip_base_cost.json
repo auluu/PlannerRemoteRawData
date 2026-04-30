@@ -1263,8 +1263,8 @@
     "id": 229,
     "consume_fuel": 10,
     "consume_ammo": 50,
-    "consume_steel": 40,
-    "consume_bauxite": 20
+    "consume_steel": 80,
+    "consume_bauxite": 30
   },
   {
     "id": 231,
@@ -1534,6 +1534,13 @@
   },
   {
     "id": 287,
+    "consume_fuel": 20,
+    "consume_ammo": 200,
+    "consume_steel": 40,
+    "consume_bauxite": 60
+  },
+  {
+    "id": 288,
     "consume_fuel": 20,
     "consume_ammo": 200,
     "consume_steel": 40,
@@ -1923,6 +1930,20 @@
     "consume_ammo": 600,
     "consume_steel": 0,
     "consume_bauxite": 780
+  },
+  {
+    "id": 397,
+    "consume_fuel": 0,
+    "consume_ammo": 40,
+    "consume_steel": 80,
+    "consume_bauxite": 0
+  },
+  {
+    "id": 398,
+    "consume_fuel": 0,
+    "consume_ammo": 30,
+    "consume_steel": 90,
+    "consume_bauxite": 60
   },
   {
     "id": 399,
@@ -2532,5 +2553,26 @@
     "consume_ammo": 480,
     "consume_steel": 0,
     "consume_bauxite": 500
+  },
+  {
+    "id": 572,
+    "consume_fuel": 10,
+    "consume_ammo": 30,
+    "consume_steel": 50,
+    "consume_bauxite": 10
+  },
+  {
+    "id": 573,
+    "consume_fuel": 10,
+    "consume_ammo": 10,
+    "consume_steel": 100,
+    "consume_bauxite": 230
+  },
+  {
+    "id": 574,
+    "consume_fuel": 20,
+    "consume_ammo": 20,
+    "consume_steel": 170,
+    "consume_bauxite": 280
   }
 ]

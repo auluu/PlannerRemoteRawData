@@ -10688,7 +10688,7 @@
     "note": null
   },
   {
-    "id": "344|360|-|瑞鳳改二乙|all|0111000",
+    "id": "344|360|-|瑞鳳改二乙|all|0110000",
     "equipment_id": 344,
     "secretary_id": 360,
     "secretary_variant": null,
@@ -10697,7 +10697,7 @@
     "sunday": false,
     "monday": true,
     "tuesday": true,
-    "wednesday": true,
+    "wednesday": false,
     "thursday": false,
     "friday": false,
     "saturday": false,

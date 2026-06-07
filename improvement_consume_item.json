@@ -1332,6 +1332,51 @@
     "star_to": null
   },
   {
+    "id": "189_0|equipment|22|-|-",
+    "step_id": "189_0",
+    "item_equipment_id": 22,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "189_1|equipment|176|-|-",
+    "step_id": "189_1",
+    "item_equipment_id": 176,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "189_1|material|skilled_crew|7|7",
+    "step_id": "189_1",
+    "item_equipment_id": null,
+    "item_material_key": "skilled_crew",
+    "count": 1,
+    "star_from": 7,
+    "star_to": 7
+  },
+  {
+    "id": "189_1|material|kaigai-skill|8|8",
+    "step_id": "189_1",
+    "item_equipment_id": null,
+    "item_material_key": "kaigai-skill",
+    "count": 1,
+    "star_from": 8,
+    "star_to": 8
+  },
+  {
+    "id": "189_1|material|new_plane_material|9|9",
+    "step_id": "189_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_plane_material",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
+  },
+  {
     "id": "19_0|equipment|19|-|-",
     "step_id": "19_0",
     "item_equipment_id": 19,
@@ -4437,6 +4482,96 @@
     "star_to": null
   },
   {
+    "id": "428_0|equipment|7|-|-",
+    "step_id": "428_0",
+    "item_equipment_id": 7,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "428_1|equipment|7|-|-",
+    "step_id": "428_1",
+    "item_equipment_id": 7,
+    "item_material_key": null,
+    "count": 2,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "428_1|material|new_gun_material|7|7",
+    "step_id": "428_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_gun_material",
+    "count": 1,
+    "star_from": 7,
+    "star_to": 7
+  },
+  {
+    "id": "428_1|material|new_gun_material|8|8",
+    "step_id": "428_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_gun_material",
+    "count": 1,
+    "star_from": 8,
+    "star_to": 8
+  },
+  {
+    "id": "428_1|material|kaigai-skill|9|9",
+    "step_id": "428_1",
+    "item_equipment_id": null,
+    "item_material_key": "kaigai-skill",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
+  },
+  {
+    "id": "429_0|equipment|7|-|-",
+    "step_id": "429_0",
+    "item_equipment_id": 7,
+    "item_material_key": null,
+    "count": 2,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "429_1|equipment|7|-|-",
+    "step_id": "429_1",
+    "item_equipment_id": 7,
+    "item_material_key": null,
+    "count": 3,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "429_1|material|new_gun_material|7|7",
+    "step_id": "429_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_gun_material",
+    "count": 1,
+    "star_from": 7,
+    "star_to": 7
+  },
+  {
+    "id": "429_1|material|new_gun_material|8|8",
+    "step_id": "429_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_gun_material",
+    "count": 1,
+    "star_from": 8,
+    "star_to": 8
+  },
+  {
+    "id": "429_1|material|kaigai-skill|9|9",
+    "step_id": "429_1",
+    "item_equipment_id": null,
+    "item_material_key": "kaigai-skill",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
+  },
+  {
     "id": "431_0|equipment|16|-|-",
     "step_id": "431_0",
     "item_equipment_id": 16,
@@ -6055,6 +6190,78 @@
     "count": 1,
     "star_from": null,
     "star_to": null
+  },
+  {
+    "id": "574_1|material|kousyo-sigen|7|7",
+    "step_id": "574_1",
+    "item_equipment_id": null,
+    "item_material_key": "kousyo-sigen",
+    "count": 2,
+    "star_from": 7,
+    "star_to": 7
+  },
+  {
+    "id": "574_1|material|kousyo-sigen|8|8",
+    "step_id": "574_1",
+    "item_equipment_id": null,
+    "item_material_key": "kousyo-sigen",
+    "count": 2,
+    "star_from": 8,
+    "star_to": 8
+  },
+  {
+    "id": "574_1|material|new_model_material|9|9",
+    "step_id": "574_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_model_material",
+    "count": 2,
+    "star_from": 9,
+    "star_to": 9
+  },
+  {
+    "id": "575_0|equipment|39|-|-",
+    "step_id": "575_0",
+    "item_equipment_id": 39,
+    "item_material_key": null,
+    "count": 3,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "575_1|equipment|129|-|-",
+    "step_id": "575_1",
+    "item_equipment_id": 129,
+    "item_material_key": null,
+    "count": 3,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "575_1|equipment|145|7|7",
+    "step_id": "575_1",
+    "item_equipment_id": 145,
+    "item_material_key": null,
+    "count": 4,
+    "star_from": 7,
+    "star_to": 7
+  },
+  {
+    "id": "575_1|equipment|241|8|8",
+    "step_id": "575_1",
+    "item_equipment_id": 241,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": 8,
+    "star_to": 8
+  },
+  {
+    "id": "575_1|equipment|150|9|9",
+    "step_id": "575_1",
+    "item_equipment_id": 150,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
   },
   {
     "id": "58_1|equipment|58|-|-",

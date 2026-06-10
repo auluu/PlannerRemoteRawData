@@ -77,7 +77,7 @@
     "thursday": false,
     "friday": false,
     "saturday": false,
-    "note": null
+    "note": "改三/護不可"
   },
   {
     "id": "3|333|-|冬月|kind1|1111111",
@@ -320,6 +320,22 @@
     "note": null
   },
   {
+    "id": "9|511|-|大和改二・重|all|0010000",
+    "equipment_id": 9,
+    "secretary_id": 511,
+    "secretary_variant": null,
+    "secretary_label": "大和改二・重",
+    "route_kind": null,
+    "sunday": false,
+    "monday": false,
+    "tuesday": true,
+    "wednesday": false,
+    "thursday": false,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
     "id": "9|143|-|武蔵|all|1100000",
     "equipment_id": 9,
     "secretary_id": 143,
@@ -333,7 +349,7 @@
     "thursday": false,
     "friday": false,
     "saturday": false,
-    "note": "改二不可"
+    "note": null
   },
   {
     "id": "9|148|-|武蔵改・改二|all|0100000",
@@ -411,6 +427,22 @@
     "tuesday": true,
     "wednesday": true,
     "thursday": true,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "10|309|-|熊野航改二|all|0100000",
+    "equipment_id": 10,
+    "secretary_id": 309,
+    "secretary_variant": null,
+    "secretary_label": "熊野航改二",
+    "route_kind": null,
+    "sunday": false,
+    "monday": true,
+    "tuesday": false,
+    "wednesday": false,
+    "thursday": false,
     "friday": false,
     "saturday": false,
     "note": null
@@ -605,7 +637,7 @@
     "thursday": true,
     "friday": true,
     "saturday": true,
-    "note": "改二不可"
+    "note": "改二/改三/護不可"
   },
   {
     "id": "13|15|-|叢雲|all|1110000",
@@ -688,11 +720,11 @@
     "note": null
   },
   {
-    "id": "13|447|-|浦波改二|all|0111000",
+    "id": "13|286|-|浦波|all|0111000",
     "equipment_id": 13,
-    "secretary_id": 447,
+    "secretary_id": 286,
     "secretary_variant": null,
-    "secretary_label": "浦波改二",
+    "secretary_label": "浦波",
     "route_kind": null,
     "sunday": false,
     "monday": true,
@@ -848,6 +880,22 @@
     "note": null
   },
   {
+    "id": "15|623|-|玉波改二|all|0111100",
+    "equipment_id": 15,
+    "secretary_id": 623,
+    "secretary_variant": null,
+    "secretary_label": "玉波改二",
+    "route_kind": null,
+    "sunday": false,
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": true,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
     "id": "16|8|-|蒼龍|kind2|0111000",
     "equipment_id": 16,
     "secretary_id": 8,
@@ -877,6 +925,22 @@
     "thursday": true,
     "friday": true,
     "saturday": true,
+    "note": null
+  },
+  {
+    "id": "16|621|-|飛龍改三|kind2|0111100",
+    "equipment_id": 16,
+    "secretary_id": 621,
+    "secretary_variant": null,
+    "secretary_label": "飛龍改三",
+    "route_kind": "kind2",
+    "sunday": false,
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": true,
+    "friday": false,
+    "saturday": false,
     "note": null
   },
   {
@@ -1664,6 +1728,22 @@
     "note": null
   },
   {
+    "id": "29|422|-|夕張改二/特/丁|all|0100100",
+    "equipment_id": 29,
+    "secretary_id": 422,
+    "secretary_variant": null,
+    "secretary_label": "夕張改二/特/丁",
+    "route_kind": null,
+    "sunday": false,
+    "monday": true,
+    "tuesday": false,
+    "wednesday": false,
+    "thursday": true,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
     "id": "30|4|-|日向|kind1|0001111",
     "equipment_id": 30,
     "secretary_id": 4,
@@ -2432,11 +2512,27 @@
     "note": null
   },
   {
-    "id": "45|351|-|日振|all|0010100",
+    "id": "45|351|-|日振|all|0111100",
     "equipment_id": 45,
     "secretary_id": 351,
     "secretary_variant": null,
     "secretary_label": "日振",
+    "route_kind": null,
+    "sunday": false,
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": true,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "45|351|b|日振改|all|0010100",
+    "equipment_id": 45,
+    "secretary_id": 351,
+    "secretary_variant": "b",
+    "secretary_label": "日振改",
     "route_kind": null,
     "sunday": false,
     "monday": false,
@@ -2608,11 +2704,27 @@
     "note": null
   },
   {
-    "id": "47|328|b|早波改|kind2|0001111",
+    "id": "47|328|-|早波|all|0001111",
     "equipment_id": 47,
     "secretary_id": 328,
-    "secretary_variant": "b",
-    "secretary_label": "早波改",
+    "secretary_variant": null,
+    "secretary_label": "早波",
+    "route_kind": null,
+    "sunday": false,
+    "monday": false,
+    "tuesday": false,
+    "wednesday": true,
+    "thursday": true,
+    "friday": true,
+    "saturday": true,
+    "note": null
+  },
+  {
+    "id": "47|582|-|早波改二|kind2|0001111",
+    "equipment_id": 47,
+    "secretary_id": 582,
+    "secretary_variant": null,
+    "secretary_label": "早波改二",
     "route_kind": "kind2",
     "sunday": false,
     "monday": false,
@@ -2717,7 +2829,7 @@
     "thursday": false,
     "friday": false,
     "saturday": false,
-    "note": null
+    "note": "特務艦のみ"
   },
   {
     "id": "50|116|-|三隈|all|0111100",
@@ -3232,11 +3344,11 @@
     "note": null
   },
   {
-    "id": "66|303|-|鈴谷改二|all|0011100",
+    "id": "66|303|-|鈴谷改二/航|all|0011100",
     "equipment_id": 66,
     "secretary_id": 303,
     "secretary_variant": null,
-    "secretary_label": "鈴谷改二",
+    "secretary_label": "鈴谷改二/航",
     "route_kind": null,
     "sunday": false,
     "monday": false,
@@ -4304,6 +4416,22 @@
     "note": "龍鳳可"
   },
   {
+    "id": "92|483|-|龍鳳改二戊|all|0111000",
+    "equipment_id": 92,
+    "secretary_id": 483,
+    "secretary_variant": null,
+    "secretary_label": "龍鳳改二戊",
+    "route_kind": null,
+    "sunday": false,
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": false,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
     "id": "93|196|-|飛龍改二|all|1000111",
     "equipment_id": 93,
     "secretary_id": 196,
@@ -4557,7 +4685,7 @@
     "thursday": true,
     "friday": true,
     "saturday": false,
-    "note": null
+    "note": "乙/丙不可"
   },
   {
     "id": "104|23|-|榛名|all|0111100",
@@ -4640,6 +4768,22 @@
     "note": null
   },
   {
+    "id": "106|451|-|丹陽|all|0111000",
+    "equipment_id": 106,
+    "secretary_id": 451,
+    "secretary_variant": null,
+    "secretary_label": "丹陽",
+    "route_kind": null,
+    "sunday": false,
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": false,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
     "id": "106|167|b|磯風改|all|0000111",
     "equipment_id": 106,
     "secretary_id": 167,
@@ -4704,11 +4848,11 @@
     "note": null
   },
   {
-    "id": "106|5|-|雪風|all|1111000",
+    "id": "106|5|-|雪風/改/改二|all|1111000",
     "equipment_id": 106,
     "secretary_id": 5,
     "secretary_variant": null,
-    "secretary_label": "雪風",
+    "secretary_label": "雪風/改/改二",
     "route_kind": null,
     "sunday": true,
     "monday": true,
@@ -4928,12 +5072,12 @@
     "note": null
   },
   {
-    "id": "119|265|-|鹿島|all|0111100",
+    "id": "119|265|-|鹿島|kind2|0111100",
     "equipment_id": 119,
     "secretary_id": 265,
     "secretary_variant": null,
     "secretary_label": "鹿島",
-    "route_kind": null,
+    "route_kind": "kind2",
     "sunday": false,
     "monday": true,
     "tuesday": true,
@@ -4960,12 +5104,12 @@
     "note": null
   },
   {
-    "id": "119|422|-|夕張改二|all|0111100",
+    "id": "119|422|-|夕張改二|kind2|0111100",
     "equipment_id": 119,
     "secretary_id": 422,
     "secretary_variant": null,
     "secretary_label": "夕張改二",
-    "route_kind": null,
+    "route_kind": "kind2",
     "sunday": false,
     "monday": true,
     "tuesday": true,
@@ -4976,12 +5120,12 @@
     "note": null
   },
   {
-    "id": "119|423|-|夕張改二特/丁|all|0011100",
+    "id": "119|423|-|夕張改二特/丁|kind2|0011100",
     "equipment_id": 119,
     "secretary_id": 423,
     "secretary_variant": null,
     "secretary_label": "夕張改二特/丁",
-    "route_kind": null,
+    "route_kind": "kind2",
     "sunday": false,
     "monday": false,
     "tuesday": true,
@@ -5086,6 +5230,22 @@
     "friday": true,
     "saturday": true,
     "note": null
+  },
+  {
+    "id": "121|625|-|吹雪改三|all|0111000",
+    "equipment_id": 121,
+    "secretary_id": 625,
+    "secretary_variant": null,
+    "secretary_label": "吹雪改三",
+    "route_kind": null,
+    "sunday": false,
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": false,
+    "friday": false,
+    "saturday": false,
+    "note": "護不可"
   },
   {
     "id": "121|332|-|涼月|all|1100011",
@@ -5280,11 +5440,11 @@
     "note": null
   },
   {
-    "id": "125|226|-|吹雪改二|all|0000110",
+    "id": "125|226|-|吹雪|all|0000110",
     "equipment_id": 125,
     "secretary_id": 226,
     "secretary_variant": null,
-    "secretary_label": "吹雪改二",
+    "secretary_label": "吹雪",
     "route_kind": null,
     "sunday": false,
     "monday": false,
@@ -5293,7 +5453,7 @@
     "thursday": true,
     "friday": true,
     "saturday": false,
-    "note": null
+    "note": "改三/護不可"
   },
   {
     "id": "125|427|-|敷波改二|all|1000011",
@@ -5776,14 +5936,14 @@
     "note": null
   },
   {
-    "id": "140|24|-|霧島|all|0011110",
+    "id": "140|24|-|霧島|all|0111110",
     "equipment_id": 140,
     "secretary_id": 24,
     "secretary_variant": null,
     "secretary_label": "霧島",
     "route_kind": null,
     "sunday": false,
-    "monday": false,
+    "monday": true,
     "tuesday": true,
     "wednesday": true,
     "thursday": true,
@@ -6112,6 +6272,22 @@
     "note": null
   },
   {
+    "id": "152|106|b|翔鶴改|all|0000100",
+    "equipment_id": 152,
+    "secretary_id": 106,
+    "secretary_variant": "b",
+    "secretary_label": "翔鶴改",
+    "route_kind": null,
+    "sunday": false,
+    "monday": false,
+    "tuesday": false,
+    "wednesday": false,
+    "thursday": true,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
     "id": "153|107|-|瑞鶴|all|0010100",
     "equipment_id": 153,
     "secretary_id": 107,
@@ -6272,19 +6448,19 @@
     "note": null
   },
   {
-    "id": "163|248|b|Zara改|all|0100010",
+    "id": "163|248|b|Zara改|all|1100011",
     "equipment_id": 163,
     "secretary_id": 248,
     "secretary_variant": "b",
     "secretary_label": "Zara改",
     "route_kind": null,
-    "sunday": false,
+    "sunday": true,
     "monday": true,
     "tuesday": false,
     "wednesday": false,
     "thursday": false,
     "friday": true,
-    "saturday": false,
+    "saturday": true,
     "note": null
   },
   {
@@ -6864,11 +7040,11 @@
     "note": null
   },
   {
-    "id": "187|462|-|能代改二|all|0111000",
+    "id": "187|138|-|能代|all|0111000",
     "equipment_id": 187,
-    "secretary_id": 462,
+    "secretary_id": 138,
     "secretary_variant": null,
-    "secretary_label": "能代改二",
+    "secretary_label": "能代",
     "route_kind": null,
     "sunday": false,
     "monday": true,
@@ -6880,11 +7056,11 @@
     "note": null
   },
   {
-    "id": "189|244|b|Aquila改|all|1000011",
+    "id": "189|244|-|Aquila|all|1000011",
     "equipment_id": 189,
     "secretary_id": 244,
-    "secretary_variant": "b",
-    "secretary_label": "Aquila改",
+    "secretary_variant": null,
+    "secretary_label": "Aquila",
     "route_kind": null,
     "sunday": true,
     "monday": false,
@@ -7152,11 +7328,11 @@
     "note": null
   },
   {
-    "id": "201|6|b|赤城改|all|0111000",
+    "id": "201|6|-|赤城|all|0111000",
     "equipment_id": 201,
     "secretary_id": 6,
-    "secretary_variant": "b",
-    "secretary_label": "赤城改",
+    "secretary_variant": null,
+    "secretary_label": "赤城",
     "route_kind": null,
     "sunday": false,
     "monday": true,
@@ -7312,22 +7488,6 @@
     "note": null
   },
   {
-    "id": "210|128|-|-|all|0011110",
-    "equipment_id": 210,
-    "secretary_id": 128,
-    "secretary_variant": null,
-    "secretary_label": "-",
-    "route_kind": null,
-    "sunday": false,
-    "monday": false,
-    "tuesday": true,
-    "wednesday": true,
-    "thursday": true,
-    "friday": true,
-    "saturday": false,
-    "note": null
-  },
-  {
     "id": "210|155|-|伊401|all|0111100",
     "equipment_id": 210,
     "secretary_id": 155,
@@ -7340,6 +7500,22 @@
     "wednesday": true,
     "thursday": true,
     "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "210|128|-|伊8|all|0011110",
+    "equipment_id": 210,
+    "secretary_id": 128,
+    "secretary_variant": null,
+    "secretary_label": "伊8",
+    "route_kind": null,
+    "sunday": false,
+    "monday": false,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": true,
+    "friday": true,
     "saturday": false,
     "note": null
   },
@@ -8224,11 +8400,11 @@
     "note": null
   },
   {
-    "id": "240|561|-|時雨改三|all|0000110",
+    "id": "240|145|-|時雨改二/改三|all|0000110",
     "equipment_id": 240,
-    "secretary_id": 561,
+    "secretary_id": 145,
     "secretary_variant": null,
-    "secretary_label": "時雨改三",
+    "secretary_label": "時雨改二/改三",
     "route_kind": null,
     "sunday": false,
     "monday": false,
@@ -8384,11 +8560,27 @@
     "note": null
   },
   {
-    "id": "249|485|-|Victorious|all|1000011",
+    "id": "249|485|-|Victorious|all|1111111",
     "equipment_id": 249,
     "secretary_id": 485,
     "secretary_variant": null,
     "secretary_label": "Victorious",
+    "route_kind": null,
+    "sunday": true,
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": true,
+    "friday": true,
+    "saturday": true,
+    "note": null
+  },
+  {
+    "id": "249|485|b|Victorious改|all|1000011",
+    "equipment_id": 249,
+    "secretary_id": 485,
+    "secretary_variant": "b",
+    "secretary_label": "Victorious改",
     "route_kind": null,
     "sunday": true,
     "monday": false,
@@ -8587,6 +8779,22 @@
     "tuesday": true,
     "wednesday": true,
     "thursday": false,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "266|575|-|春雨改二|kind2|0111100",
+    "equipment_id": 266,
+    "secretary_id": 575,
+    "secretary_variant": null,
+    "secretary_label": "春雨改二",
+    "route_kind": "kind2",
+    "sunday": false,
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": true,
     "friday": false,
     "saturday": false,
     "note": null
@@ -8880,6 +9088,22 @@
     "note": null
   },
   {
+    "id": "267|556|-|早霜改二|all|1000011",
+    "equipment_id": 267,
+    "secretary_id": 556,
+    "secretary_variant": null,
+    "secretary_label": "早霜改二",
+    "route_kind": null,
+    "sunday": true,
+    "monday": false,
+    "tuesday": false,
+    "wednesday": false,
+    "thursday": false,
+    "friday": true,
+    "saturday": true,
+    "note": null
+  },
+  {
     "id": "267|343|-|長波改二|all|1111111",
     "equipment_id": 267,
     "secretary_id": 343,
@@ -9080,6 +9304,22 @@
     "route_kind": null,
     "sunday": false,
     "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": true,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "277|458|-|Gambier Bay Mk.II|all|0011100",
+    "equipment_id": 277,
+    "secretary_id": 458,
+    "secretary_variant": null,
+    "secretary_label": "Gambier Bay Mk.II",
+    "route_kind": null,
+    "sunday": false,
+    "monday": false,
     "tuesday": true,
     "wednesday": true,
     "thursday": true,
@@ -9325,7 +9565,7 @@
     "thursday": false,
     "friday": false,
     "saturday": false,
-    "note": null
+    "note": "護不可"
   },
   {
     "id": "285|466|-|磯波改二|all|0011100",
@@ -9693,7 +9933,7 @@
     "thursday": false,
     "friday": false,
     "saturday": false,
-    "note": null
+    "note": "護不可"
   },
   {
     "id": "294|220|-|叢雲改二|all|0001111",
@@ -9789,7 +10029,7 @@
     "thursday": false,
     "friday": false,
     "saturday": false,
-    "note": null
+    "note": "護不可"
   },
   {
     "id": "295|466|-|磯波改二|all|1100011",
@@ -9808,11 +10048,11 @@
     "note": null
   },
   {
-    "id": "295|286|b|浦波改|all|1000111",
+    "id": "295|447|-|浦波改二|all|1000111",
     "equipment_id": 295,
-    "secretary_id": 286,
-    "secretary_variant": "b",
-    "secretary_label": "浦波改",
+    "secretary_id": 447,
+    "secretary_variant": null,
+    "secretary_label": "浦波改二",
     "route_kind": null,
     "sunday": true,
     "monday": false,
@@ -9904,12 +10144,12 @@
     "note": null
   },
   {
-    "id": "297|586|-|白雪改二|kind2|1000111",
+    "id": "297|586|-|白雪改二|kind1|1000111",
     "equipment_id": 297,
     "secretary_id": 586,
     "secretary_variant": null,
     "secretary_label": "白雪改二",
-    "route_kind": "kind2",
+    "route_kind": "kind1",
     "sunday": true,
     "monday": false,
     "tuesday": false,
@@ -9933,7 +10173,7 @@
     "thursday": false,
     "friday": false,
     "saturday": false,
-    "note": null
+    "note": "改三/護不可"
   },
   {
     "id": "297|16|b|磯波改|kind2|1100011",
@@ -9952,12 +10192,12 @@
     "note": null
   },
   {
-    "id": "297|466|-|磯波改二|kind2|1000111",
+    "id": "297|466|-|磯波改二|kind1|1000111",
     "equipment_id": 297,
     "secretary_id": 466,
     "secretary_variant": null,
     "secretary_label": "磯波改二",
-    "route_kind": "kind2",
+    "route_kind": "kind1",
     "sunday": true,
     "monday": false,
     "tuesday": false,
@@ -9968,11 +10208,11 @@
     "note": null
   },
   {
-    "id": "297|286|-|浦波・改二|kind2|1100011",
+    "id": "297|286|-|浦波|kind2|1100011",
     "equipment_id": 297,
     "secretary_id": 286,
     "secretary_variant": null,
-    "secretary_label": "浦波・改二",
+    "secretary_label": "浦波",
     "route_kind": "kind2",
     "sunday": true,
     "monday": true,
@@ -9981,22 +10221,6 @@
     "thursday": false,
     "friday": true,
     "saturday": true,
-    "note": null
-  },
-  {
-    "id": "297|286|b|浦波改|kind2|0100000",
-    "equipment_id": 297,
-    "secretary_id": 286,
-    "secretary_variant": "b",
-    "secretary_label": "浦波改",
-    "route_kind": "kind2",
-    "sunday": false,
-    "monday": true,
-    "tuesday": false,
-    "wednesday": false,
-    "thursday": false,
-    "friday": false,
-    "saturday": false,
     "note": null
   },
   {
@@ -10352,12 +10576,12 @@
     "note": null
   },
   {
-    "id": "315|429|-|Fletcher Mk.II|all|0011100",
+    "id": "315|429|-|Fletcher Mk.II|kind2|0011100",
     "equipment_id": 315,
     "secretary_id": 429,
     "secretary_variant": null,
     "secretary_label": "Fletcher Mk.II",
-    "route_kind": null,
+    "route_kind": "kind2",
     "sunday": false,
     "monday": false,
     "tuesday": true,
@@ -11072,31 +11296,15 @@
     "note": null
   },
   {
-    "id": "367|374|-|Gotland or andra|all|0111000",
+    "id": "367|374|-|Gotland|all|0111000",
     "equipment_id": 367,
     "secretary_id": 374,
     "secretary_variant": null,
-    "secretary_label": "Gotland or andra",
+    "secretary_label": "Gotland",
     "route_kind": null,
     "sunday": false,
     "monday": true,
     "tuesday": true,
-    "wednesday": true,
-    "thursday": false,
-    "friday": false,
-    "saturday": false,
-    "note": null
-  },
-  {
-    "id": "367|379|-|Gotland改|all|0001000",
-    "equipment_id": 367,
-    "secretary_id": 379,
-    "secretary_variant": null,
-    "secretary_label": "Gotland改",
-    "route_kind": null,
-    "sunday": false,
-    "monday": false,
-    "tuesday": false,
     "wednesday": true,
     "thursday": false,
     "friday": false,
@@ -11200,11 +11408,11 @@
     "note": null
   },
   {
-    "id": "372|483|-|龍鳳改二戊|all|1000111",
+    "id": "372|483|-|龍鳳改二/戊|all|1000111",
     "equipment_id": 372,
     "secretary_id": 483,
     "secretary_variant": null,
-    "secretary_label": "龍鳳改二戊",
+    "secretary_label": "龍鳳改二/戊",
     "route_kind": null,
     "sunday": true,
     "monday": false,
@@ -11216,12 +11424,12 @@
     "note": null
   },
   {
-    "id": "379|625|-|吹雪改三|all|1000111",
+    "id": "379|625|-|吹雪改三|kind2|1000111",
     "equipment_id": 379,
     "secretary_id": 625,
     "secretary_variant": null,
     "secretary_label": "吹雪改三",
-    "route_kind": null,
+    "route_kind": "kind2",
     "sunday": true,
     "monday": false,
     "tuesday": false,
@@ -11229,15 +11437,15 @@
     "thursday": true,
     "friday": true,
     "saturday": true,
-    "note": null
+    "note": "護不可"
   },
   {
-    "id": "379|597|-|杉改|all|1000111",
+    "id": "379|597|-|杉改|kind2|1000111",
     "equipment_id": 379,
     "secretary_id": 597,
     "secretary_variant": null,
     "secretary_label": "杉改",
-    "route_kind": null,
+    "route_kind": "kind2",
     "sunday": true,
     "monday": false,
     "tuesday": false,
@@ -11261,6 +11469,38 @@
     "thursday": true,
     "friday": true,
     "saturday": true,
+    "note": null
+  },
+  {
+    "id": "379|441|b|松改|all|1100001",
+    "equipment_id": 379,
+    "secretary_id": 441,
+    "secretary_variant": "b",
+    "secretary_label": "松改",
+    "route_kind": null,
+    "sunday": true,
+    "monday": true,
+    "tuesday": false,
+    "wednesday": false,
+    "thursday": false,
+    "friday": false,
+    "saturday": true,
+    "note": null
+  },
+  {
+    "id": "379|441|b|松改|kind2|0011110",
+    "equipment_id": 379,
+    "secretary_id": 441,
+    "secretary_variant": "b",
+    "secretary_label": "松改",
+    "route_kind": "kind2",
+    "sunday": false,
+    "monday": false,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": true,
+    "friday": true,
+    "saturday": false,
     "note": null
   },
   {
@@ -11344,15 +11584,31 @@
     "note": null
   },
   {
-    "id": "382|521|-|鵜来|all|0001111",
+    "id": "382|351|b|日振改|all|1000111",
+    "equipment_id": 382,
+    "secretary_id": 351,
+    "secretary_variant": "b",
+    "secretary_label": "日振改",
+    "route_kind": null,
+    "sunday": true,
+    "monday": false,
+    "tuesday": false,
+    "wednesday": false,
+    "thursday": true,
+    "friday": true,
+    "saturday": true,
+    "note": null
+  },
+  {
+    "id": "382|521|-|鵜来|all|1111111",
     "equipment_id": 382,
     "secretary_id": 521,
     "secretary_variant": null,
     "secretary_label": "鵜来",
     "route_kind": null,
-    "sunday": false,
-    "monday": false,
-    "tuesday": false,
+    "sunday": true,
+    "monday": true,
+    "tuesday": true,
     "wednesday": true,
     "thursday": true,
     "friday": true,
@@ -11504,7 +11760,7 @@
     "note": null
   },
   {
-    "id": "391|112|-|瑞鳳|all|1110000",
+    "id": "391|112|-|瑞鳳|all|1100000",
     "equipment_id": 391,
     "secretary_id": 112,
     "secretary_variant": null,
@@ -11512,7 +11768,7 @@
     "route_kind": null,
     "sunday": true,
     "monday": true,
-    "tuesday": true,
+    "tuesday": false,
     "wednesday": false,
     "thursday": false,
     "friday": false,
@@ -11536,11 +11792,27 @@
     "note": null
   },
   {
-    "id": "392|355|-|瑞鳳改二|all|0111000",
+    "id": "391|106|b|翔鶴改|all|1100000",
+    "equipment_id": 391,
+    "secretary_id": 106,
+    "secretary_variant": "b",
+    "secretary_label": "翔鶴改",
+    "route_kind": null,
+    "sunday": true,
+    "monday": true,
+    "tuesday": false,
+    "wednesday": false,
+    "thursday": false,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "392|112|-|瑞鳳|all|0111000",
     "equipment_id": 392,
-    "secretary_id": 355,
+    "secretary_id": 112,
     "secretary_variant": null,
-    "secretary_label": "瑞鳳改二",
+    "secretary_label": "瑞鳳",
     "route_kind": null,
     "sunday": false,
     "monday": true,
@@ -11952,11 +12224,11 @@
     "note": null
   },
   {
-    "id": "420|349|b|Intrepid改|all|0001111",
+    "id": "420|349|-|Intrepid|all|0001111",
     "equipment_id": 420,
     "secretary_id": 349,
-    "secretary_variant": "b",
-    "secretary_label": "Intrepid改",
+    "secretary_variant": null,
+    "secretary_label": "Intrepid",
     "route_kind": null,
     "sunday": false,
     "monday": false,
@@ -11968,11 +12240,11 @@
     "note": null
   },
   {
-    "id": "421|349|b|Intrepid改|all|0001111",
+    "id": "421|349|-|Intrepid|all|0001111",
     "equipment_id": 421,
     "secretary_id": 349,
-    "secretary_variant": "b",
-    "secretary_label": "Intrepid改",
+    "secretary_variant": null,
+    "secretary_label": "Intrepid",
     "route_kind": null,
     "sunday": false,
     "monday": false,
@@ -12528,11 +12800,11 @@
     "note": null
   },
   {
-    "id": "451|500|b|山汐丸改|all|0001111",
+    "id": "451|500|-|山汐丸|all|0001111",
     "equipment_id": 451,
     "secretary_id": 500,
-    "secretary_variant": "b",
-    "secretary_label": "山汐丸改",
+    "secretary_variant": null,
+    "secretary_label": "山汐丸",
     "route_kind": null,
     "sunday": false,
     "monday": false,
@@ -12672,92 +12944,12 @@
     "note": null
   },
   {
-    "id": "470|298|-|null|all|1110000",
-    "equipment_id": 470,
-    "secretary_id": 298,
-    "secretary_variant": null,
-    "secretary_label": null,
-    "route_kind": null,
-    "sunday": true,
-    "monday": true,
-    "tuesday": true,
-    "wednesday": false,
-    "thursday": false,
-    "friday": false,
-    "saturday": false,
-    "note": null
-  },
-  {
-    "id": "470|470|-|null|all|0111100",
-    "equipment_id": 470,
-    "secretary_id": 470,
-    "secretary_variant": null,
-    "secretary_label": null,
-    "route_kind": null,
-    "sunday": false,
-    "monday": true,
-    "tuesday": true,
-    "wednesday": true,
-    "thursday": true,
-    "friday": false,
-    "saturday": false,
-    "note": null
-  },
-  {
-    "id": "470|515|-|null|all|0001110",
-    "equipment_id": 470,
-    "secretary_id": 515,
-    "secretary_variant": null,
-    "secretary_label": null,
-    "route_kind": null,
-    "sunday": false,
-    "monday": false,
-    "tuesday": false,
-    "wednesday": true,
-    "thursday": true,
-    "friday": true,
-    "saturday": false,
-    "note": null
-  },
-  {
-    "id": "470|551|-|null|all|1000011",
-    "equipment_id": 470,
-    "secretary_id": 551,
-    "secretary_variant": null,
-    "secretary_label": null,
-    "route_kind": null,
-    "sunday": true,
-    "monday": false,
-    "tuesday": false,
-    "wednesday": false,
-    "thursday": false,
-    "friday": true,
-    "saturday": true,
-    "note": null
-  },
-  {
-    "id": "470|561|-|null|all|0001110",
-    "equipment_id": 470,
-    "secretary_id": 561,
-    "secretary_variant": null,
-    "secretary_label": null,
-    "route_kind": null,
-    "sunday": false,
-    "monday": false,
-    "tuesday": false,
-    "wednesday": true,
-    "thursday": true,
-    "friday": true,
-    "saturday": false,
-    "note": null
-  },
-  {
-    "id": "470|575|-|null|all|1001111",
+    "id": "470|575|-|春雨改二|kind2|1001111",
     "equipment_id": 470,
     "secretary_id": 575,
     "secretary_variant": null,
-    "secretary_label": null,
-    "route_kind": null,
+    "secretary_label": "春雨改二",
+    "route_kind": "kind2",
     "sunday": true,
     "monday": false,
     "tuesday": false,
@@ -12765,6 +12957,86 @@
     "thursday": true,
     "friday": true,
     "saturday": true,
+    "note": null
+  },
+  {
+    "id": "470|298|-|村雨改二|kind2|1110000",
+    "equipment_id": 470,
+    "secretary_id": 298,
+    "secretary_variant": null,
+    "secretary_label": "村雨改二",
+    "route_kind": "kind2",
+    "sunday": true,
+    "monday": true,
+    "tuesday": true,
+    "wednesday": false,
+    "thursday": false,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "470|470|-|親潮改二|all|0111100",
+    "equipment_id": 470,
+    "secretary_id": 470,
+    "secretary_variant": null,
+    "secretary_label": "親潮改二",
+    "route_kind": null,
+    "sunday": false,
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": true,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "470|561|-|時雨改三|kind2|0001110",
+    "equipment_id": 470,
+    "secretary_id": 561,
+    "secretary_variant": null,
+    "secretary_label": "時雨改三",
+    "route_kind": "kind2",
+    "sunday": false,
+    "monday": false,
+    "tuesday": false,
+    "wednesday": true,
+    "thursday": true,
+    "friday": true,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "470|551|-|天津風改二|all|1000011",
+    "equipment_id": 470,
+    "secretary_id": 551,
+    "secretary_variant": null,
+    "secretary_label": "天津風改二",
+    "route_kind": null,
+    "sunday": true,
+    "monday": false,
+    "tuesday": false,
+    "wednesday": false,
+    "thursday": false,
+    "friday": true,
+    "saturday": true,
+    "note": null
+  },
+  {
+    "id": "470|515|-|早潮改二|all|0001110",
+    "equipment_id": 470,
+    "secretary_id": 515,
+    "secretary_variant": null,
+    "secretary_label": "早潮改二",
+    "route_kind": null,
+    "sunday": false,
+    "monday": false,
+    "tuesday": false,
+    "wednesday": true,
+    "thursday": true,
+    "friday": true,
+    "saturday": false,
     "note": null
   },
   {
@@ -12960,11 +13232,27 @@
     "note": null
   },
   {
-    "id": "488|145|-|時雨改二|all|0111000",
+    "id": "488|145|-|時雨改二|all|0111100",
     "equipment_id": 488,
     "secretary_id": 145,
     "secretary_variant": null,
     "secretary_label": "時雨改二",
+    "route_kind": null,
+    "sunday": false,
+    "monday": true,
+    "tuesday": true,
+    "wednesday": true,
+    "thursday": true,
+    "friday": false,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "488|561|-|時雨改三|all|0111000",
+    "equipment_id": 488,
+    "secretary_id": 561,
+    "secretary_variant": null,
+    "secretary_label": "時雨改三",
     "route_kind": null,
     "sunday": false,
     "monday": true,
@@ -12992,11 +13280,11 @@
     "note": null
   },
   {
-    "id": "492|483|-|龍鳳改二戊|all|0011000",
+    "id": "492|483|-|龍鳳改二/戊|all|0011000",
     "equipment_id": 492,
     "secretary_id": 483,
     "secretary_variant": null,
-    "secretary_label": "龍鳳改二戊",
+    "secretary_label": "龍鳳改二/戊",
     "route_kind": null,
     "sunday": false,
     "monday": false,
@@ -13008,11 +13296,11 @@
     "note": null
   },
   {
-    "id": "492|608|-|しまね丸改|all|0111000",
+    "id": "492|603|-|しまね丸|all|0111000",
     "equipment_id": 492,
-    "secretary_id": 608,
+    "secretary_id": 603,
     "secretary_variant": null,
-    "secretary_label": "しまね丸改",
+    "secretary_label": "しまね丸",
     "route_kind": null,
     "sunday": false,
     "monday": true,
@@ -13088,27 +13376,11 @@
     "note": null
   },
   {
-    "id": "507|524|-|null|all|0101100",
+    "id": "507|524|-|Nevada|all|0111100",
     "equipment_id": 507,
     "secretary_id": 524,
     "secretary_variant": null,
-    "secretary_label": null,
-    "route_kind": null,
-    "sunday": false,
-    "monday": true,
-    "tuesday": false,
-    "wednesday": true,
-    "thursday": true,
-    "friday": false,
-    "saturday": false,
-    "note": null
-  },
-  {
-    "id": "507|536|-|null|all|0111100",
-    "equipment_id": 507,
-    "secretary_id": 536,
-    "secretary_variant": null,
-    "secretary_label": null,
+    "secretary_label": "Nevada",
     "route_kind": null,
     "sunday": false,
     "monday": true,
@@ -13120,27 +13392,11 @@
     "note": null
   },
   {
-    "id": "508|524|-|null|all|0101100",
+    "id": "508|524|-|Nevada|all|0111100",
     "equipment_id": 508,
     "secretary_id": 524,
     "secretary_variant": null,
-    "secretary_label": null,
-    "route_kind": null,
-    "sunday": false,
-    "monday": true,
-    "tuesday": false,
-    "wednesday": true,
-    "thursday": true,
-    "friday": false,
-    "saturday": false,
-    "note": null
-  },
-  {
-    "id": "508|536|-|null|all|0111100",
-    "equipment_id": 508,
-    "secretary_id": 536,
-    "secretary_variant": null,
-    "secretary_label": null,
+    "secretary_label": "Nevada",
     "route_kind": null,
     "sunday": false,
     "monday": true,
@@ -13280,11 +13536,11 @@
     "note": null
   },
   {
-    "id": "518|154|b|香取|all|0111100",
+    "id": "518|154|b|香取改|all|0111100",
     "equipment_id": 518,
     "secretary_id": 154,
     "secretary_variant": "b",
-    "secretary_label": "香取",
+    "secretary_label": "香取改",
     "route_kind": null,
     "sunday": false,
     "monday": true,
@@ -13680,27 +13936,11 @@
     "note": null
   },
   {
-    "id": "550|112|-|null|all|0000111",
+    "id": "550|322|-|八幡丸|all|0001110",
     "equipment_id": 550,
-    "secretary_id": 112,
+    "secretary_id": 322,
     "secretary_variant": null,
-    "secretary_label": null,
-    "route_kind": null,
-    "sunday": false,
-    "monday": false,
-    "tuesday": false,
-    "wednesday": false,
-    "thursday": true,
-    "friday": true,
-    "saturday": true,
-    "note": null
-  },
-  {
-    "id": "550|484|-|null|all|0001110",
-    "equipment_id": 550,
-    "secretary_id": 484,
-    "secretary_variant": null,
-    "secretary_label": null,
+    "secretary_label": "八幡丸",
     "route_kind": null,
     "sunday": false,
     "monday": false,
@@ -13712,11 +13952,43 @@
     "note": null
   },
   {
-    "id": "551|112|-|null|all|1000111",
+    "id": "550|112|-|瑞鳳|all|0000111",
+    "equipment_id": 550,
+    "secretary_id": 112,
+    "secretary_variant": null,
+    "secretary_label": "瑞鳳",
+    "route_kind": null,
+    "sunday": false,
+    "monday": false,
+    "tuesday": false,
+    "wednesday": false,
+    "thursday": true,
+    "friday": true,
+    "saturday": true,
+    "note": null
+  },
+  {
+    "id": "551|322|-|八幡丸|all|0001110",
+    "equipment_id": 551,
+    "secretary_id": 322,
+    "secretary_variant": null,
+    "secretary_label": "八幡丸",
+    "route_kind": null,
+    "sunday": false,
+    "monday": false,
+    "tuesday": false,
+    "wednesday": true,
+    "thursday": true,
+    "friday": true,
+    "saturday": false,
+    "note": null
+  },
+  {
+    "id": "551|112|-|瑞鳳|all|1000111",
     "equipment_id": 551,
     "secretary_id": 112,
     "secretary_variant": null,
-    "secretary_label": null,
+    "secretary_label": "瑞鳳",
     "route_kind": null,
     "sunday": true,
     "monday": false,
@@ -13725,22 +13997,6 @@
     "thursday": true,
     "friday": true,
     "saturday": true,
-    "note": null
-  },
-  {
-    "id": "551|484|-|null|all|0001110",
-    "equipment_id": 551,
-    "secretary_id": 484,
-    "secretary_variant": null,
-    "secretary_label": null,
-    "route_kind": null,
-    "sunday": false,
-    "monday": false,
-    "tuesday": false,
-    "wednesday": true,
-    "thursday": true,
-    "friday": true,
-    "saturday": false,
     "note": null
   },
   {
@@ -13792,11 +14048,11 @@
     "note": null
   },
   {
-    "id": "553|333|-|冬月|all|1000011",
+    "id": "553|338|-|冬月改|all|1000011",
     "equipment_id": 553,
-    "secretary_id": 333,
+    "secretary_id": 338,
     "secretary_variant": null,
-    "secretary_label": "冬月",
+    "secretary_label": "冬月改",
     "route_kind": null,
     "sunday": true,
     "monday": false,

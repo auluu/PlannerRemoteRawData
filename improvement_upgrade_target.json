@@ -50,10 +50,10 @@
     "consume_improvement_max": 6
   },
   {
-    "id": "5|235|all",
+    "id": "5|235|kind2",
     "equipment_id": 5,
     "upgrade_id": 235,
-    "route_kind": null,
+    "route_kind": "kind2",
     "consume_development_min": 8,
     "consume_development_max": 12,
     "consume_improvement_min": 4,

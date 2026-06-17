@@ -128,12 +128,12 @@
     "note": null
   },
   {
-    "id": "5|183|-|大淀|all|1100001",
+    "id": "5|183|-|大淀|kind2|1100001",
     "equipment_id": 5,
     "secretary_id": 183,
     "secretary_variant": null,
     "secretary_label": "大淀",
-    "route_kind": null,
+    "route_kind": "kind2",
     "sunday": true,
     "monday": true,
     "tuesday": false,
@@ -144,12 +144,12 @@
     "note": null
   },
   {
-    "id": "5|183|b|大淀改|all|0110000",
+    "id": "5|183|b|大淀改|kind2|0110000",
     "equipment_id": 5,
     "secretary_id": 183,
     "secretary_variant": "b",
     "secretary_label": "大淀改",
-    "route_kind": null,
+    "route_kind": "kind2",
     "sunday": false,
     "monday": true,
     "tuesday": true,
@@ -13584,11 +13584,11 @@
     "note": null
   },
   {
-    "id": "522|571|-|null|all|0111100",
+    "id": "522|571|-|伊36|all|0111100",
     "equipment_id": 522,
     "secretary_id": 571,
     "secretary_variant": null,
-    "secretary_label": null,
+    "secretary_label": "伊36",
     "route_kind": null,
     "sunday": false,
     "monday": true,
@@ -13600,11 +13600,11 @@
     "note": null
   },
   {
-    "id": "522|572|-|null|all|1111000",
+    "id": "522|572|-|伊41|all|1111000",
     "equipment_id": 522,
     "secretary_id": 572,
     "secretary_variant": null,
-    "secretary_label": null,
+    "secretary_label": "伊41",
     "route_kind": null,
     "sunday": true,
     "monday": true,

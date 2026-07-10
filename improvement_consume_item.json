@@ -4032,6 +4032,33 @@
     "star_to": null
   },
   {
+    "id": "398_1|material|fast-build|7|7",
+    "step_id": "398_1",
+    "item_equipment_id": null,
+    "item_material_key": "fast-build",
+    "count": 1,
+    "star_from": 7,
+    "star_to": 7
+  },
+  {
+    "id": "398_1|material|new_model_material|8|8",
+    "step_id": "398_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_model_material",
+    "count": 3,
+    "star_from": 8,
+    "star_to": 8
+  },
+  {
+    "id": "398_1|material|new_gun_material|9|9",
+    "step_id": "398_1",
+    "item_equipment_id": null,
+    "item_material_key": "new_gun_material",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
+  },
+  {
     "id": "399_0|equipment|65|-|-",
     "step_id": "399_0",
     "item_equipment_id": 65,

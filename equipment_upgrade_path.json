@@ -3496,5 +3496,15 @@
       574
     ],
     "step_count": 1
+  },
+  {
+    "id": "585|586|585>586",
+    "from_equipment_id": 585,
+    "to_equipment_id": 586,
+    "equipment_path": [
+      585,
+      586
+    ],
+    "step_count": 1
   }
 ]

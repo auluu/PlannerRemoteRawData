@@ -6300,6 +6300,51 @@
     "star_to": null
   },
   {
+    "id": "585_0|equipment|25|-|-",
+    "step_id": "585_0",
+    "item_equipment_id": 25,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "585_1|equipment|19|-|-",
+    "step_id": "585_1",
+    "item_equipment_id": 19,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "586_0|equipment|23|-|-",
+    "step_id": "586_0",
+    "item_equipment_id": 23,
+    "item_material_key": null,
+    "count": 1,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "586_1|equipment|23|-|-",
+    "step_id": "586_1",
+    "item_equipment_id": 23,
+    "item_material_key": null,
+    "count": 2,
+    "star_from": null,
+    "star_to": null
+  },
+  {
+    "id": "586_1|material|skilled_crew|9|9",
+    "step_id": "586_1",
+    "item_equipment_id": null,
+    "item_material_key": "skilled_crew",
+    "count": 1,
+    "star_from": 9,
+    "star_to": 9
+  },
+  {
     "id": "59_0|equipment|26|-|-",
     "step_id": "59_0",
     "item_equipment_id": 26,

@@ -2078,5 +2078,15 @@
     "consume_development_max": 38,
     "consume_improvement_min": 13,
     "consume_improvement_max": 18
+  },
+  {
+    "id": "585|586|all",
+    "equipment_id": 585,
+    "upgrade_id": 586,
+    "route_kind": null,
+    "consume_development_min": 2,
+    "consume_development_max": 3,
+    "consume_improvement_min": 1,
+    "consume_improvement_max": 2
   }
 ]

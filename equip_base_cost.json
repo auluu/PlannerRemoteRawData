@@ -2602,5 +2602,19 @@
     "consume_ammo": 40,
     "consume_steel": 30,
     "consume_bauxite": 20
+  },
+  {
+    "id": 585,
+    "consume_fuel": 30,
+    "consume_ammo": 10,
+    "consume_steel": 0,
+    "consume_bauxite": 20
+  },
+  {
+    "id": 586,
+    "consume_fuel": 30,
+    "consume_ammo": 30,
+    "consume_steel": 0,
+    "consume_bauxite": 20
   }
 ]
